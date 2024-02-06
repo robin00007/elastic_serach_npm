@@ -1,5 +1,5 @@
 {
-  "name": "@tech-with-robin/elastic_search",
+  "name": "trie_elastic_search",
   "version": "1.0.0",
   "description": "This project implements ElasticSearch features using the Trie data structure, providing efficient and fast searching capabilities on large datasets. The Trie data structure is leveraged for optimal search performance, and the project is built with React.js.",
   "main": "dist/index.js",
