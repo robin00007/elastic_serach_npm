@@ -1,0 +1,26 @@
+{
+  "name": "elastic_search",
+  "version": "1.0.0",
+  "description": "This project implements ElasticSearch features using the Trie data structure, providing efficient and fast searching capabilities on large datasets. The Trie data structure is leveraged for optimal search performance, and the project is built with React.js.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robin00007/Elastic_search.git"
+  },
+  "keywords": [
+    "search",
+    "searchBar",
+    "elasticSearch",
+    "input",
+    "searchinput"
+  ],
+  "author": "robin0007",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robin00007/Elastic_search/issues"
+  },
+  "homepage": "https://github.com/robin00007/Elastic_search#readme"
+}
