@@ -1,4 +1,4 @@
-# Trie Search React Hook
+# Custom hook for the elastic Search With tire data structure
 
 ## Overview
 
